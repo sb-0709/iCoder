@@ -142,8 +142,3 @@ Once the server is running:
 - **Manage content** via the Django admin at `/admin/`
 
 ---
-
-
----
-
-*Built with Django 🎸*
