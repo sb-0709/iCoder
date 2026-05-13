@@ -1,4 +1,4 @@
-# 📝 iCoder — Blog Web App
+# 📝 iCoder - Blog Web App
 
 > A full-featured blog web application built with **Python & Django**, featuring user authentication, post management, categories, and a clean responsive UI.
 
